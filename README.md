@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30156647/README.md)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=b432ff&height=250&section=header&text=Hi,%20I'm%20Deepan!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20UI/UX%20Innovator&descAlignY=55&descAlign=50" />
 </div>
