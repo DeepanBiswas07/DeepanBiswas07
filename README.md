@@ -52,48 +52,82 @@ I am a passionate Software Engineer and AI Researcher dedicated to building next
 
 ---
 
-### 🔥 Dynamic Project Showcase
-*These repository cards automatically sync with my live GitHub data. As I update project descriptions or gain stars, these widgets update instantly in real-time.*
+### 🔥 Masterpiece Projects
 
-<div align="center">
-  <a href="https://github.com/DeepanBiswas07/Helio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepanBiswas07&repo=Helio&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-  <a href="https://github.com/DeepanBiswas07/Aegis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepanBiswas07&repo=Aegis&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/DeepanBiswas07/InkFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepanBiswas07&repo=InkFlow&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-  <a href="https://github.com/DeepanBiswas07/FitQuestRPG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepanBiswas07&repo=FitQuestRPG&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/DeepanBiswas07/Chat-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepanBiswas07&repo=Chat-project&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-  <a href="https://github.com/DeepanBiswas07/Zen-Waves">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepanBiswas07&repo=Zen-Waves&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*(To add future projects, I just copy one of these blocks and change `repo=MyNewProject`!)*
+#### 🌌 [Helio](https://github.com/DeepanBiswas07/Helio)
+**The Ultimate Offline Holographic AI Assistant**
+* **Tech:** Python, PyQt5, MediaPipe, Whisper, Kokoro TTS, Ollama.
+* **Highlights:** Real-time physical hand gesture control, 100% offline sovereign cognitive reasoning, zero-latency Wake Word engines, and dynamic UI physics.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛡️ [Aegis](https://github.com/DeepanBiswas07/Aegis)
+**Enterprise Project Management Dashboard**
+* **Tech:** TypeScript, React, Custom CSS Architecture.
+* **Highlights:** Deep global theme-switching engines, responsive cross-device matrix layouts, and interactive project analytics interfaces.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 📝 [InkFlow](https://github.com/DeepanBiswas07/InkFlow)
+**AI Document Translation Pipeline**
+* **Tech:** Python, OCR Engines, Translation Pipelines.
+* **Highlights:** High-accuracy PDF and Image translations with text-masking and intelligent layout retention.
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚔️ [FitQuestRPG](https://github.com/DeepanBiswas07/FitQuestRPG)
+**Gamified Fitness & RPG Interface**
+* **Tech:** JavaScript, Web Stack.
+* **Highlights:** Turning daily fitness habits into an interactive RPG game with dynamic interfaces.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 💬 [Chat-project](https://github.com/DeepanBiswas07/Chat-project)
+**Secure Real-Time Messaging**
+* **Tech:** JavaScript, WebSockets.
+* **Highlights:** Seamless message routing and robust real-time communication architectures.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌊 [Zen-Waves](https://github.com/DeepanBiswas07/Zen-Waves)
+**Interactive Web Interface**
+* **Tech:** JavaScript, Frontend Tooling.
+* **Highlights:** Focused on aesthetic layouts and smooth, engaging UI animations.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
+
+#### 🎖️ [Appreciation-Agent](https://github.com/DeepanBiswas07/Appreciation-Agent)
+A sophisticated live-demonstration platform designed with consistent dark UI themes, showcasing robust JavaScript integrations.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 Live Dynamic GitHub Analytics
+### 📊 GitHub Activity Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepanBiswas07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanBiswas07&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepanBiswas07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepanBiswas07&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 ---
