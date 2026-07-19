@@ -7,7 +7,7 @@
   <i>Crafting futuristic, high-performance software where Artificial Intelligence meets spectacular Design.</i>
   <br><br>
 
-  [![GitHub Followers](https://img.shields.io/github/followers/DeepanBiswas07?style=for-the-badge&logo=github&color=000000)](https://github.com/DeepanBiswas07)
+  [![GitHub Followers](https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github)](https://github.com/DeepanBiswas07)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#) <!-- Add your LinkedIn link here -->
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-b432ff?style=for-the-badge&logo=vercel)](#) <!-- Add your Portfolio link here -->
 </div>
