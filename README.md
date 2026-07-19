@@ -18,7 +18,6 @@
 
 I am a passionate Software Engineer and AI Researcher dedicated to building next-generation applications. Whether it's developing **offline holographic desktop assistants**, architecting **interactive RPG systems**, or designing **enterprise-grade project management tools**, I focus on pushing the boundaries of what code can do.
 
-- 💼 **Experience:** Dual-internship experience at **DeepOrion Technology** and **Iffort**.
 - 🔭 **Currently Working On:** Expanding **Helio**, an advanced offline AI holographic assistant.
 - 💡 **Core Philosophy:** *Any sufficiently advanced technology is indistinguishable from magic.*
 
