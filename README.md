@@ -38,7 +38,7 @@ Most of what I build starts from a stubborn constraint: run it offline, ship it 
 
 - 🔭 **Currently:** AI Engineer & Tech Lead at **dissolveX** — AI agents, workflow automation, LLM and RAG integration
 - 🧪 **Also building:** expanding **Helio**, an offline AI holographic assistant
-- 🎓 **Studying:** B.Tech CSE (AI & ML — IBM) at JECRC University, Jaipur · CGPA 8.3 · 2026
+- 🎓 **Education:** B.Tech CSE (AI & ML — IBM), JECRC University, Jaipur · CGPA 8.3 · Class of 2026
 - 💡 **Core Philosophy:** *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
 
 ---
@@ -48,9 +48,7 @@ Most of what I build starts from a stubborn constraint: run it offline, ship it 
 | | |
 |---|---|
 | **AI Engineer & Tech Lead** · dissolveX · Noida | Jun 2026 – Present |
-| AI agents, workflow automation, LLM and RAG integration | |
 | **AI Intern** · Iffort · Noida | Apr – Jul 2026 |
-| Realtime AI request router with sub-second streaming | |
 
 ---
 
