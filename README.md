@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b432ff&height=250&section=header&text=Hi,%20I'm%20Deepan!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%26%20Tech%20Lead%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
+  <!-- Committed to the repo, so nothing can proxy it away. If you would rather
+       have the animated capsule-render header back, swap this line for the one
+       below it and bump v=2 each time GitHub caches a broken fetch. -->
+  <img src="banner.png" alt="Hi, I'm Deepan — AI Engineer & Tech Lead, Full-Stack Developer" width="100%" />
+  <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=b432ff&height=250&section=header&text=Hi,%20I'm%20Deepan!&fontSize=80&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%26%20Tech%20Lead%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&v=2" /> -->
 </div>
 
 <div align="center">
